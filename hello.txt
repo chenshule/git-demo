@@ -6,6 +6,3 @@ hello git 333
 qweqweqweqwe
 chenshule12
 chenshule13
-chenshule12
-chenshule
-111
